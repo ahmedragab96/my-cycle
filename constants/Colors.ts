@@ -8,6 +8,9 @@ export default {
     tint: tintColorLight,
     tabIconDefault: '#ccc',
     tabIconSelected: tintColorLight,
+    periodDay: 'red',
+    fertileWindow: '#50cebb',
+    ovulationDay: 'white'
   },
   dark: {
     text: '#fff',
